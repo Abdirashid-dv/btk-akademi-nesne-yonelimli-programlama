@@ -1,4 +1,4 @@
-@startuml
+@startuml class Diagram
 title Product Model
 class Product{
     -name
